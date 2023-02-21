@@ -165,5 +165,6 @@ DEVICE="ttyUSB0"
 Reload the service files:
 ```
 sudo systemctl daemon-reload
+sudo systemctl start rtkclient
 ```
 
